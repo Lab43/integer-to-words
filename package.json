@@ -1,0 +1,7 @@
+{
+  "name": "integer-to-words",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
