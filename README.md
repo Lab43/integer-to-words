@@ -1,7 +1,7 @@
 integer-to-words
 ================
 
-A simple Node.js module that converts integers to words. Supports any integer up less than 1,000,000,000,000,000.
+A simple Node.js module that converts integers to words. Supports any integer less than 1,000,000,000,000,000.
 
 ```
 var integer-to-words = require('integer-to-words');
